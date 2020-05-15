@@ -2,4 +2,4 @@
 Author: Jackie Xu
 
 The code is implemented in Matlab. Anyone may contribute.
-The course is provided n [Coursera](coursera.org/learn/machine-learning).
+The course is provided by [Coursera](coursera.org/learn/machine-learning).
